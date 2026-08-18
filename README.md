@@ -2,7 +2,7 @@
 
 📍 Santiago, Chile | Data Engineer | Software Engineer
 
-Soy Ingeniero de software enfocado en resolver problemas reales con tecnoligia. Actualmente construyendo proyectos con IA.
+Soy Ingeniero de software enfocado en resolver problemas reales con tecnoligia. Actualmente construyendo productos con IA.
 
 🌱 Aprendiendo: LLMs y RAG con [RagEvaluable](https://github.com/matiasmorenoiglesias/RagEvaluable)
 
