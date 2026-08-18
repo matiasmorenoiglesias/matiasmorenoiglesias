@@ -1,10 +1,12 @@
-## Hola! Bienvenid@s 👋
+## Hola! Bienvenidos 👋
 
 📍 Santiago, Chile | Data Engineer | Software Engineer
 
 Soy Ingeniero de software enfocado en resolver problemas reales con tecnologia. Actualmente construyendo productos con IA.
 
-🌱 Aprendiendo: LLMs y RAG con [RagEvaluable](https://github.com/matiasmorenoiglesias/RagEvaluable)
+## Proyectos Acuales
+
+🌱 [RagEvaluable](https://github.com/matiasmorenoiglesias/RagEvaluable):  Aprendiendo: LLMs y RAG. 
 
 Stack:
 
