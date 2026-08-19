@@ -10,11 +10,15 @@ Soy Ingeniero de software enfocado en resolver problemas reales con tecnologia. 
 
 Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nodejs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nodejs,python,scala)](https://skillicons.dev)
 
 Cloud:
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,aws,azure)](https://skillicons.dev)
+
+Redes Sociales:
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/matias-moreno-iglesias/))
 <!--
 **matiasmorenoiglesias/matiasmorenoiglesias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
