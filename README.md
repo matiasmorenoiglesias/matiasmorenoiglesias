@@ -7,6 +7,7 @@ Soy Ingeniero de software enfocado en resolver problemas reales con tecnologia. 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
 ## Proyectos Acuales
 
 🌱 [RagEvaluable](https://github.com/matiasmorenoiglesias/RagEvaluable):  Aprendiendo: LLMs y RAG. 
