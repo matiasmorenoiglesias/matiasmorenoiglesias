@@ -12,11 +12,11 @@ Soy Ingeniero de software enfocado en resolver problemas reales con tecnologia. 
 
 🌱 [RagEvaluable](https://github.com/matiasmorenoiglesias/RagEvaluable):  Aprendiendo: LLMs y RAG. 
 
-### Stack:
+### Stack
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,nodejs,python,scala)](https://skillicons.dev)
 
-### Cloud:
+### Cloud
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,aws,azure)](https://skillicons.dev)
 
