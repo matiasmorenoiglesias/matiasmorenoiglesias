@@ -12,7 +12,7 @@ Soy Ingeniero de software enfocado en resolver problemas reales con tecnologia. 
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-## Proyectos Acuales
+## Proyectos Actuales
 
 🌱 [RagEvaluable](https://github.com/matiasmorenoiglesias/RagEvaluable):  Aprendiendo: LLMs y RAG. 
 
