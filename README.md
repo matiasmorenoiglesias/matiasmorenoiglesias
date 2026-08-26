@@ -1,4 +1,4 @@
-# Hola! Bienvenidos 👋
+# Hola, Bienvenid@s 👋
 
 📍 **Santiago, Chile** | **Data Engineer** | **Software Engineer**
 
