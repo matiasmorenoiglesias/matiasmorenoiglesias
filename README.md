@@ -14,6 +14,8 @@ Soy Ingeniero de software enfocado en resolver problemas reales con tecnologia. 
 
 ## Proyectos Actuales
 
+📄 [sii-ts-sdk](https://github.com/matiasmorenoiglesias/sii-ts-sdk): SDK para generar boletas y facturas en el impuestos internos de Chile.
+
 🌱 [RagEvaluable](https://github.com/matiasmorenoiglesias/RagEvaluable):  Aprendiendo: LLMs y RAG. 
 
 ## Hablemos
